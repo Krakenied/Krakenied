@@ -8,9 +8,9 @@
 - Keyboard player 🎹
 - Based in Poland 🇵🇱
 
-Here's a random cat for you:
+Meet my cat:
 
-<img src="https://cataas.com/cat" width="300" alt="Random CATAAS cat">
+![My cat](cat.jpg)
 
 ## Visitors on this profile
 ![Visitors](https://count.getloli.com/get/@Krakenied?theme=rule34&scale=2)

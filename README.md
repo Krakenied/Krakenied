@@ -13,4 +13,4 @@ Meet my cat:
 ![My cat](cat.jpg)
 
 ## Visitors on this profile
-![Visitors](https://count.getloli.com/get/@Krakenied?theme=rule34&scale=2)
+<img src="https://count.getloli.com/get/@Krakenied?theme=rule34&scale=2" alt="Visitors" width="100%">
